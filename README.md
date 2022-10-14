@@ -3,6 +3,7 @@ Hi, I'm just learning data science and use this github to store and archive (som
 Working on my profile and repos to make it as nice as possible and make it a portfolio I'd be proud of✨  
 
 [My Training Progress and Cheat Sheet](https://github.com/royandhika/road_to_ds)
+
 ---
 
 ## Mini-Project
