@@ -12,7 +12,7 @@ I build data products from messy sources and make it trustworthy
 
 ## Featured work
 
-### [Agentic Customer 360](https://github.com/royandhika/agentic-c360)
+### [AI Assisted Customer 360](https://github.com/royandhika/ai-c360)
 
 End-to-end customer analytics platform for a fictional Indonesian travel startup. Simulates fragmented source systems, resolves customer identity, builds CLV and churn models, and serves a Streamlit dashboard with a LangGraph analytics agent.
 
