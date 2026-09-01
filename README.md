@@ -6,13 +6,21 @@
 
 I build data products from messy sources and make it trustworthy
 
-[Website](https://royandhk.web.id) · [LinkedIn](https://linkedin.com/in/royandhika) · [Email](mailto:satriaroy70@gmail.com)
+[Website](https://royandhk.web.id) · [LinkedIn](https://linkedin.com/in/royandhika) · [Email](mailto:satriaroy70@gmail.com) · [Whatsapp](https://wa.me/6285921756700)
 
 </div>
 
 ## Featured work
 
+### [Realtime Fleet Telemetry](https://github.com/royandhika/realtime-fleet-telemetry)
+<img width="500" alt="realtime-fleet-telemetry" src="https://github.com/user-attachments/assets/771c23de-ac26-4757-bc7b-3a48d2bff339" />  
+
+Streams live vehicle locations from the ECU into a monitoring dashboard. If you run a travel or rental business, you'd be glad to know where your fleet is and what it's doing.
+
+`Apache Kafka` `Apache Beam` `Cassandra` `Redis` `Grafana` `Docker`
+
 ### [AI Assisted Customer 360](https://github.com/royandhika/ai-c360)
+<img width="400" alt="ai-c360" src="https://github.com/user-attachments/assets/2f47e62f-524b-47e6-baf9-1c51fa181258" />  
 
 End-to-end customer analytics platform for a fictional Indonesian travel startup. Simulates fragmented source systems, resolves customer identity, builds CLV and churn models, and serves a Streamlit dashboard with a LangGraph analytics agent.
 
@@ -86,4 +94,5 @@ Open to conversations about data engineering, modern data stacks, platform pract
 - Website: [royandhk.web.id](https://royandhk.web.id)
 - LinkedIn: [linkedin.com/in/royandhika](https://linkedin.com/in/royandhika)
 - GitHub: [github.com/royandhika](https://github.com/royandhika)
+- WhatsApp: [wa.me/6285921756700](https://wa.me/6285921756700)
 - Email: [satriaroy70@gmail.com](mailto:satriaroy70@gmail.com)
