@@ -1,4 +1,4 @@
-<div align="center">
+<img width="880" height="550" alt="demo-upload" src="https://github.com/user-attachments/assets/11591dd5-b523-42d0-99ce-67917f28042d" /><div align="center">
 
 # Roy Andhika
 
@@ -11,6 +11,12 @@ I build data products from messy sources and make it trustworthy
 </div>
 
 ## Featured work
+### [Iris Data Consumer](https://github.com/royandhika/iris)
+<img width="400" alt="iris" src="https://github.com/user-attachments/assets/c4cf5a08-1a2e-48aa-9a2b-ddd790818c6f" />
+
+The first gate for receiving client's data, and it's foolproof. Enforce a schema so user gets an error in their face if their file misses a column or has wrong data type.
+
+`Go` `Fiber` `React` `MySQL` `MinIO` `Docker`
 
 ### [Realtime Fleet Telemetry](https://github.com/royandhika/realtime-fleet-telemetry)
 <img width="500" alt="realtime-fleet-telemetry" src="https://github.com/user-attachments/assets/771c23de-ac26-4757-bc7b-3a48d2bff339" />  
