@@ -1,4 +1,4 @@
-<img width="880" height="550" alt="demo-upload" src="https://github.com/user-attachments/assets/11591dd5-b523-42d0-99ce-67917f28042d" /><div align="center">
+<div align="center">
 
 # Roy Andhika
 
